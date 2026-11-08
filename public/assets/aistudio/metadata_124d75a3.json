@@ -1,0 +1,6 @@
+{
+  "name": "Hustler Bachelors",
+  "description": "Showcase for Hustler Bachelors: crypto trading, forex, free airdrops, AI money tools, and online side hustles for beginners who refuse to settle for a 9-5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
